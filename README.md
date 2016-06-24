@@ -9,3 +9,7 @@
 3.	main.bat କୁ ଡବଲ କ୍ଲିକ କରି run କରାନ୍ତୁ । 
 
 4.	ଆପଣଙ୍କ ଆଉଟପୁଟ out.txt ଫାଇଲରେ ପାଇଯିବେ ।
+
+<h2><b>dependencies</b></h2>
+1. espeak
+2. python-xlrd 1.0.0
